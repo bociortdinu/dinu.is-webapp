@@ -33,9 +33,29 @@ npm ERR! path /home/cloner/WORKSPACE/dinu.is-webapp/node_modules/node-sass
 
 ---
 
+```
 npm install node-sass@latest --legacy-peer-deps
+```
+
+```
 sudo npm -g update
+```
+
+```
 npm outdated
+```
+
+```
 npm install
+```
+
+```
+npm update
+```
+
+```
 npm start
+```
+
+
 # dinu.is-webapp
