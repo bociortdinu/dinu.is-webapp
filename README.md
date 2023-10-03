@@ -57,5 +57,15 @@ npm update
 npm start
 ```
 
+For Build:
+-
+
+```
+set NODE_OPTIONS=--openssl-legacy-provider
+```
+
+```
+npm run build
+```
 
 # dinu.is-webapp
