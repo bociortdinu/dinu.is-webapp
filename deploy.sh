@@ -10,6 +10,6 @@ cd dist
 
 git add -A
 git commit -m 'It works just for github'
-git push origin main:gh-pages
+git push origin master:gh-pages
 
 cd -
