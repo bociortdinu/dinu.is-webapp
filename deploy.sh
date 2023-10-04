@@ -10,6 +10,6 @@ cd dist
 
 git add -A
 git commit -m 'It works just for github'
-git push -f git@github.com:bociortdinu/dinu.is-webapp.git gh-pages
+git push origin gh-pages
 
 cd -
