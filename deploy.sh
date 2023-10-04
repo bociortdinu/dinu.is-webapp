@@ -8,9 +8,8 @@ npm run build
 
 cd dist
 
-git init
 git add -A
-git commit -m 'new PATH'
+git commit -m 'It works just for github'
 git push -f git@github.com:bociortdinu/dinu.is-webapp.git master:gh-pages
 
 cd -
