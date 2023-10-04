@@ -6,7 +6,7 @@ import NProgress from 'nprogress'
 Vue.use(Router)
 
 const TITLE = 'dinu.is'
-const URL = 'https://dinu.is/'
+const URL = 'https://www.bociortdinu.com/'
 const ABOUT =
   'Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.'
 
