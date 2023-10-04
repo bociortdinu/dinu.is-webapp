@@ -10,7 +10,7 @@ cd dist
 
 git init
 git add -A
-git commit -m 'New Deployment'
+git commit -m 'new PATH'
 git push -f git@github.com:bociortdinu/dinu.is-webapp.git master:gh-pages
 
 cd -
