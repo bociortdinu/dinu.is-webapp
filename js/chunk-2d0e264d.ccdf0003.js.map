@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/Characters/Shapes/index.js"],"names":[],"mappings":"kHAAA","file":"js/chunk-2d0e264d.ccdf0003.js","sourcesContent":["export { default } from './Shapes.vue'\n"],"sourceRoot":""}

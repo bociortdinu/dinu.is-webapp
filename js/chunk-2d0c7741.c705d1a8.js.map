@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/Characters/Astronaut/index.js"],"names":[],"mappings":"kHAAA","file":"js/chunk-2d0c7741.c705d1a8.js","sourcesContent":["export { default } from './Astronaut.vue'\n"],"sourceRoot":""}

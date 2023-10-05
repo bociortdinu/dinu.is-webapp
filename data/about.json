@@ -1,0 +1,70 @@
+{
+  "email": "bociortdinu@gmail.com",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/dinu-bociort-33969a187/",
+      "title": "LinkedIn",
+      "icon": "LinkedInIcon"
+    },
+    {
+      "url": "https://github.com/bociortdinu",
+      "title": "GitHub",
+      "icon": "GithubIcon"
+    }
+  ],
+  "cv": {
+    "file": "bociort.dinu.cv.pdf",
+    "title": "Download CV",
+    "label": "CV"
+  },
+  "description": [
+    "I am a highly adaptable individual with a penchant for problem-solving and a deep passion for coding.",
+    "With each completed task, I actively seek opportunities to enhance my efficiency, continuously evolving and honing my skills.",
+    "My commitment lies in continual self-improvement, seeking out new challenges that foster both personal and professional growth within the field of programming and beyond.",
+    "From Romania, based in Timisoara."
+  ],
+  "subtitles": ["he/him"],
+  "skills": [
+    ["Excellent interpersonal skills", "Critical thinking", "Problem solving"],
+    ["Software development", "Software testing", "3D modeling"],
+    [
+      "Microcontrollers",
+      "C/C++",
+      "Python",
+      "Linux",
+      "Java"
+    ],
+    ["Andoid Studio","Fusion360","Photoshop", "Illustrator"]
+  ],
+  "experiences": [
+    {
+      "position": "Senior Software Developer",
+      "company": "Continental Automotive Timisoara",
+      "time": "* current"
+    },
+    {
+      "position": "Software tester",
+      "company": "Elektrobit Automotive",
+      "time": "2021-2023"
+    },
+    {
+      "position": "Internship",
+      "company": "Continental Automotive Timisoara",
+      "time": "2020-2021"
+    },
+    {
+      "position": "Student",
+      "company": "Polytechnic University of Timisoara, Faculty of Automation and Computers",
+      "time": "2017-2021"
+    }
+  ],
+  "languages": {
+    "native": [
+      ["ro-RO", "Romanian"]
+    ],
+    "fluent": [
+      ["en-US", "English"]
+    ]
+  },
+  "busy": ["Hiking trips", "Watering my plants", "Cycling", "Art"]
+}

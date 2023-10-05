@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/Characters/Octopus/index.js"],"names":[],"mappings":"gHAAA","file":"js/chunk-2d21371c.a2d6a456.js","sourcesContent":["export { default } from './Octopus.vue'\n"],"sourceRoot":""}

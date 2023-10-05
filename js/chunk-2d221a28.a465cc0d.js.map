@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/Characters/HolwsCastle/index.js"],"names":[],"mappings":"gHAAA","file":"js/chunk-2d221a28.a465cc0d.js","sourcesContent":["export { default } from './HolwsCastle.vue'\n"],"sourceRoot":""}

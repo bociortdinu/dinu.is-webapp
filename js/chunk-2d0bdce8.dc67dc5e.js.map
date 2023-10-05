@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/Characters/Potion/index.js"],"names":[],"mappings":"kHAAA","file":"js/chunk-2d0bdce8.dc67dc5e.js","sourcesContent":["export { default } from './Potion.vue'\n"],"sourceRoot":""}
