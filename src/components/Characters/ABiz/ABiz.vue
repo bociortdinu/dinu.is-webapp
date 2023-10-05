@@ -30,7 +30,7 @@ export default {
         )
         .to(
           '.abiz-r-arm, .abiz-l-arm',
-          1.5,
+          1.4,
           {
             rotationZ: 5,
             transformOrigin: '90% 0%',
