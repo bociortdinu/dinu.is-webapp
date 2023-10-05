@@ -49,7 +49,7 @@
     <SceneSection id="biz2">
       <TextBlock>
         <p class="-big">
-          My frist job was from 2020 to 2021. It was an
+          My first job was from 2020 to 2021. It was an
           <strong class="-purple">Internship</strong>
           @
           <a
