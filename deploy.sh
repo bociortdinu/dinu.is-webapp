@@ -8,8 +8,9 @@ npm run build
 
 cd dist
 
+git init
 git add -A
-git commit -m 'It works just for github'
-git push origin gh-pages:gh-pages
+git commit -m 'Changed Continental'
+git push -f git@github.com:bociortdinu/dinu.is-webapp.git master:gh-pages
 
 cd -
