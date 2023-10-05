@@ -49,38 +49,43 @@ import SceneSection from '../SceneSection.vue'
 const SPOTIFY_TRACK = 'https://open.spotify.com/track/'
 const SONGS = [
   {
-    id: '1pYBTRBbp3PCcdqoke2QSN',
-    label: 'BadBadNotGood',
+    id: '6ToM0uwxtPKo9CMpbPGYvM',
+    label: 'The Doors',
   },
 
   {
-    id: '2pCnrWHxYVDWN3S4PgNMa0',
-    label: 'Khruangbin',
+    id: '4vpeKl0vMGdAXpZiQB2Dtd',
+    label: 'Jefferson Airplane',
   },
 
   {
-    id: '30JzduBPzHCnaErOkczzin',
-    label: 'Toumani Diabaté',
+    id: '0Pie5DFAHHxpkONFUsAI6s',
+    label: 'Nirvana',
   },
 
   {
-    id: '5TLObp1kSrfgCZVBIpYGtQ',
-    label: 'Astor Piazzola',
+    id: '1jzDzZWeSDBg5fhNc3tczV',
+    label: 'Black Sabbath',
   },
 
   {
-    id: '7cwPQGHgob1v9pek8WnQRx',
-    label: 'Isao Tomita',
+    id: '7Gx2q0ueNwvDp2BOZYGCMO',
+    label: 'Pink Floyd',
   },
 
   {
-    id: '5I5mTVbYfzg39b0PgVRrTo',
-    label: 'Ryiuchi Sakamoto',
+    id: '3qrTtyItm5TPVpbZ3FI39C',
+    label: 'Synapson, Bonga',
   },
 
   {
-    id: '2JNNbg38OtPLFoc66isKPQ',
-    label: 'Caetano Veloso',
+    id: '3oRaLG3ZDqXNN4BXhBClrY',
+    label: 'Jose Larralde',
+  },
+
+  {
+    id: '4QDVTIUxXCZkSKTqhHSSWZ',
+    label: '<?????????????>',
   },
 ]
 
