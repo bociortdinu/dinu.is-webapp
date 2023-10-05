@@ -216,8 +216,8 @@ export default {
         this.particlesLoops.forEach((loop) => loop.play())
       } else {
         this.$el.classList.add('animationStop')
-        this.loop.stop()
-        this.particlesLoops.forEach((loop) => loop.stop())
+        this.loop.reverse()
+        this.particlesLoops.forEach((loop) => loop.reverse())
       }
     },
   },

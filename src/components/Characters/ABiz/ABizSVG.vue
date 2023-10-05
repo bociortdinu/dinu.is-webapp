@@ -4,10 +4,9 @@
     viewBox="0 0 100 100"
     aria-labelledby="aBizTitle aBizDesc"
   >
-    <title id="aBizTitle">Biz, the BizCommerce mascot</title>
+    <title id="aBizTitle">Continental Automotive</title>
     <desc id="aBizDesc">
-      She is a cute light blue pentagon, holding the Magento logo inside an
-      orange circle
+      She is a cute light blue pentagon, holding the Continental logo
     </desc>
     <g class="abiz-abiz">
       <g class="abiz-body">

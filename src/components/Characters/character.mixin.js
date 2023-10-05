@@ -32,7 +32,7 @@ export const character = {
       console.warn(`${this.$options.name} has no init method`)
     },
     destroy() {
-      this.loop.stop()
+      this.loop.reverse()
       this.loop.kill()
       this.loop = null
       this.toggleSVGAnimations(false)
@@ -50,7 +50,7 @@ export const character = {
       if (isPlaying) {
         this.loop.play()
       } else {
-        this.loop.stop()
+        this.loop.reverse()
       }
     },
     toggleAnimation() {

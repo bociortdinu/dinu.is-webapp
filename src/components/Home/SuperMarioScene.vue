@@ -70,6 +70,7 @@ export default {
   },
   methods: {
     onJumped(block) {
+      console.log('Jumped event received with element:');
       const rect = block.getBoundingClientRect()
       const blockCenter = Math.floor(rect.x + rect.width / 2)
       const blockBottom = rect.bottom
